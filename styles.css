@@ -1556,6 +1556,12 @@ details[open] summary::before {
     padding: 4rem 2rem;
 }
 
+.cases-grid1 {
+    display: flex;
+    justify-content: center;
+}
+
+
 .sustentabilidade-hero .hero-content {
     position: relative;
     z-index: 1;
